@@ -19,8 +19,17 @@ a {
   html {
     color-scheme: dark;
   }
+
   body {
     color: white;
     background: black;
   }
+}
+
+.azul {
+  background-color: dodgerblue;
+}
+
+.vermelho {
+  background-color: crimson;
 }
